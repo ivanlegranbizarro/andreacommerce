@@ -11,4 +11,4 @@ esta no está disponible en GitHub.
 
 
 Una vez instalado el proyecto, podrás acceder a una documentación interactiva
-con todos sus endpoints navegando a 'docs\' desde tu navegador web.
+con todos sus endpoints navegando a "docs\" desde tu navegador web.
